@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Develop. Preview. Ship.
+  Develop. Preview. Ship. Privately.
 </p>
 
 <p align="center">
@@ -20,6 +20,10 @@
 ## Vercel
 
 Vercel’s Frontend Cloud provides the developer experience and infrastructure to build, scale, and secure a faster, more personalized Web.
+
+## CellV
+
+CellV is a version of Vercel hosted privately, sending zero information to Vercel or anyone else.
 
 ## Deploy
 
